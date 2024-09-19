@@ -1,4 +1,4 @@
-# COLOR_CONVERSIONS_OF-IMAGE
+![Screenshot 2024-09-19 104453](https://github.com/user-attachments/assets/c80b63fb-bbbe-46ca-88bd-4bee3a367a54)# COLOR_CONVERSIONS_OF-IMAGE
 
 #### Developed By: ARHAM S
 #### Register Number: 212222110005
@@ -109,9 +109,11 @@ cv2.imshow('Image Window', res)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![Screenshot 2024-09-14 105028](https://github.com/user-attachments/assets/853c60ae-9cc5-43d4-ad3c-61a7a7fc8a9e)
 
-![Screenshot 2024-09-14 105522](https://github.com/user-attachments/assets/c68f1702-8daa-41f2-8a22-f4155b603e9a)
+
+![Screenshot 2024-09-19 103740](https://github.com/user-attachments/assets/9b3e7bb2-31ec-4f27-a795-8ec8e5f4f2ae)
+
+![Screenshot 2024-09-19 103806](https://github.com/user-attachments/assets/9935ecb5-bb98-49b1-8423-e7a03fdda26d)
 
 
 ### iii)Image Color Conversion
@@ -147,7 +149,10 @@ plt.title('HSV to RGB')
 plt.axis('off')
 ```
 
-![Screenshot 2024-09-14 101831](https://github.com/user-attachments/assets/7caf2bc2-1494-444a-ac6a-b1631e520d4b)
+
+
+![Screenshot 2024-09-19 103542](https://github.com/user-attachments/assets/598cc92d-176b-45b6-a9d3-5805118f75b6)
+
 
 ### iv)Access and Manipulate Image Pixels
 
@@ -163,10 +168,10 @@ plt.title('Image with Manipulated Pixels')
 plt.axis('off')
 ```
 
-![Screenshot 2024-09-14 101259](https://github.com/user-attachments/assets/68ad884b-0ade-4e89-8bfb-4f3a9a1c3560)
-![Screenshot 2024-09-14 105920](https://github.com/user-attachments/assets/c6662ddf-e7f2-4ac4-98aa-5d8675f537b0)
-![Screenshot 2024-09-14 110041](https://github.com/user-attachments/assets/79d02fad-5076-4b1a-9700-a242fc82ecd5)
-![Screenshot 2024-09-14 110352](https://github.com/user-attachments/assets/0b2092e7-ccda-4fdd-abd5-f3bf7f0ef586)
+![Screenshot 2024-09-19 103229](https://github.com/user-attachments/assets/f48f4dd5-44a2-457a-8d3e-130801736d46)
+![Screenshot 2024-09-19 103621](https://github.com/user-attachments/assets/ad1229c4-554c-4bde-93b8-87e81d88319f)
+![Screenshot 2024-09-19 103646](https://github.com/user-attachments/assets/375b136a-aef7-45ad-9c88-f8afff25da94)
+![Screenshot 2024-09-19 103704](https://github.com/user-attachments/assets/b1a68ef7-2268-4cd4-8ae4-579883a7b822)
 
 
 ### v)Image Resizing
@@ -190,7 +195,8 @@ plt.axis('off')  # Turn off the axis
 plt.show()
 
 ```
-![Screenshot 2024-09-14 111351](https://github.com/user-attachments/assets/b58e6158-f799-4d1d-9410-08439e4499f4)
+
+![Screenshot 2024-09-19 104453](https://github.com/user-attachments/assets/ce38844c-956a-4ac4-9d68-a5783db3d14c)
 
 
 ### vi)Image Cropping
@@ -215,7 +221,7 @@ plt.show()  # Display the cropped image
 
 
 ```
-![Screenshot 2024-09-14 111637](https://github.com/user-attachments/assets/ee1dd366-906a-4898-a6c2-1b0816479a96)
+
 
 
 ### vii)Image Flipping
@@ -250,9 +256,12 @@ plt.show()
 
 ```
 
-![Screenshot 2024-09-14 112408](https://github.com/user-attachments/assets/79c8a4ae-4792-4a88-abd2-c3f0c2915def)
+![Screenshot 2024-09-19 104332](https://github.com/user-attachments/assets/ed525c54-f00b-4335-8838-101528e05f06)
 
 
+![Screenshot 2024-09-19 104352](https://github.com/user-attachments/assets/778666b7-429a-483b-b771-116c81957f1b)
+
+![Screenshot 2024-09-19 104411](https://github.com/user-attachments/assets/5122b2ae-cdff-4fc5-835f-3a9f5fa308d2)
 
 ### viii)Write and Save the Modified Image
 ```
