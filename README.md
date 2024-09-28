@@ -1,4 +1,8 @@
 # COLOR_CONVERSIONS_OF-IMAGE
+# NAME : ARHAM S
+# REG NO : 212222110005
+
+
 ## AIM
 Write a Python program using OpenCV that performs the following tasks:
 
